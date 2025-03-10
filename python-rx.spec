@@ -9,7 +9,7 @@ Summary(pl.UTF-8):	Rozszerzenia Reactive (Rx) dla Pythona
 Name:		python-rx
 # keep 1.x here for python2 support
 Version:	1.6.3
-Release:	1
+Release:	2
 License:	Apache v2.0
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/Rx/
